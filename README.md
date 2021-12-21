@@ -1,7 +1,9 @@
 # SparksFoundation
 
 Name: Anamaya Vyas
-Domain: Data Science and Business Analytics 
+
+Domain: Data Science and Business Analytics
+
 Task: #1 Prediction using Supervised Machine Learning
 
 YouTube Demo Link:
